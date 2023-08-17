@@ -1,6 +1,6 @@
 # Custom
-/element84_assignments/data
-
+data
+node_modules
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
